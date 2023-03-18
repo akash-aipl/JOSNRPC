@@ -1,0 +1,158 @@
+[
+ {
+  "id": 24,
+  "campaign_id": false,
+  "source_id": false,
+  "medium_id": false,
+  "activity_ids": [],
+  "activity_state": false,
+  "activity_user_id": false,
+  "activity_type_id": false,
+  "activity_type_icon": false,
+  "activity_date_deadline": false,
+  "my_activity_date_deadline": false,
+  "activity_summary": false,
+  "activity_exception_decoration": false,
+  "activity_exception_icon": false,
+  "message_is_follower": true,
+  "message_follower_ids": [
+   654,
+   655
+  ],
+  "message_partner_ids": [
+   3,
+   70
+  ],
+  "message_ids": [
+   676,
+   675
+  ],
+  "has_message": true,
+  "message_needaction": false,
+  "message_needaction_counter": 0,
+  "message_has_error": false,
+  "message_has_error_counter": 0,
+  "message_attachment_count": 0,
+  "message_main_attachment_id": false,
+  "website_message_ids": [],
+  "message_has_sms_error": false,
+  "access_url": "/my/orders/24",
+  "access_token": false,
+  "access_warning": "",
+  "name": "S00024",
+  "company_id": [
+   1,
+   "Sky Technoweb Pvt Ltd"
+  ],
+  "partner_id": [
+   70,
+   "Yash Soni"
+  ],
+  "state": "sale",
+  "client_order_ref": false,
+  "create_date": "2023-02-03 12:28:32",
+  "commitment_date": false,
+  "date_order": "2023-02-03 12:28:33",
+  "origin": false,
+  "reference": false,
+  "require_signature": true,
+  "require_payment": true,
+  "signature": false,
+  "signed_by": false,
+  "signed_on": false,
+  "validity_date": "2023-02-05",
+  "note": false,
+  "partner_invoice_id": [
+   70,
+   "Yash Soni"
+  ],
+  "partner_shipping_id": [
+   70,
+   "Yash Soni"
+  ],
+  "fiscal_position_id": false,
+  "payment_term_id": false,
+  "pricelist_id": [
+   1,
+   "Public Pricelist (INR)"
+  ],
+  "currency_id": [
+   20,
+   "INR"
+  ],
+  "currency_rate": 1.0,
+  "user_id": [
+   2,
+   "Mitchell Admin"
+  ],
+  "team_id": [
+   1,
+   "Sales"
+  ],
+  "order_line": [
+   48
+  ],
+  "amount_untaxed": 24.0,
+  "amount_tax": 0.0,
+  "amount_total": 24.0,
+  "invoice_count": 1,
+  "invoice_ids": [
+   32
+  ],
+  "invoice_status": "invoiced",
+  "transaction_ids": [],
+  "authorized_transaction_ids": [],
+  "analytic_account_id": false,
+  "tag_ids": [],
+  "amount_undiscounted": 24.0,
+  "country_code": "IN",
+  "expected_date": "2023-02-03 12:28:33",
+  "is_expired": false,
+  "partner_credit_warning": "",
+  "tax_country_id": [
+   104,
+   "India"
+  ],
+  "tax_totals": {
+   "amount_untaxed": 24.0,
+   "amount_total": 24.0,
+   "formatted_amount_total": "\u20b9\u00a024.00",
+   "formatted_amount_untaxed": "\u20b9\u00a024.00",
+   "groups_by_subtotal": {},
+   "subtotals": [],
+   "subtotals_order": [],
+   "display_tax_base": false
+  },
+  "terms_type": "plain",
+  "type_name": "Sales Order",
+  "show_update_fpos": false,
+  "show_update_pricelist": false,
+  "__last_update": "2023-02-03 12:34:25",
+  "display_name": "S00024",
+  "create_uid": [
+   2,
+   "Mitchell Admin"
+  ],
+  "write_uid": [
+   2,
+   "Mitchell Admin"
+  ],
+  "write_date": "2023-02-03 12:34:25",
+  "l10n_in_reseller_partner_id": false,
+  "l10n_in_journal_id": [
+   1,
+   "Customer Invoices- 12ABCDE3456FGZH"
+  ],
+  "l10n_in_gst_treatment": "consumer",
+  "sale_order_template_id": false,
+  "sale_order_option_ids": [],
+  "tasks_ids": [],
+  "tasks_count": 0,
+  "visible_project": false,
+  "project_id": false,
+  "project_ids": [],
+  "project_count": 0,
+  "milestone_count": 0,
+  "is_product_milestone": false
+ }
+]

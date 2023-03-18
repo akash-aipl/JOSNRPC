@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9,
+  "activity_ids": [],
+  "activity_state": false,
+  "activity_user_id": false,
+  "activity_type_id": false,
+  "activity_type_icon": false,
+  "activity_date_deadline": false,
+  "my_activity_date_deadline": false,
+  "activity_summary": false,
+  "activity_exception_decoration": false,
+  "activity_exception_icon": false,
+  "message_is_follower": true,
+  "message_follower_ids": [
+   666
+  ],
+  "message_partner_ids": [
+   3
+  ],
+  "message_ids": [
+   692
+  ],
+  "has_message": true,
+  "message_needaction": false,
+  "message_needaction_counter": 0,
+  "message_has_error": false,
+  "message_has_error_counter": 0,
+  "message_attachment_count": 0,
+  "message_main_attachment_id": false,
+  "website_message_ids": [],
+  "message_has_sms_error": false,
+  "name": "Test note from JSON RPC",
+  "company_id": false,
+  "user_id": [
+   2,
+   "Mitchell Admin"
+  ],
+  "memo": "<p>Test note from JSON RPC</p>",
+  "sequence": 0,
+  "stage_id": [
+   1,
+   "New"
+  ],
+  "stage_ids": [
+   1
+  ],
+  "open": true,
+  "date_done": false,
+  "color": 0,
+  "tag_ids": [],
+  "__last_update": "2023-02-06 10:51:58",
+  "display_name": "Test note from JSON RPC",
+  "create_uid": [
+   2,
+   "Mitchell Admin"
+  ],
+  "create_date": "2023-02-06 10:51:58",
+  "write_uid": [
+   2,
+   "Mitchell Admin"
+  ],
+  "write_date": "2023-02-06 10:51:58"
+ }
+]
